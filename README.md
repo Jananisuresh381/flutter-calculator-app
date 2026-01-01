@@ -17,4 +17,12 @@ A simple calculator application built using Flutter. This app supports basic ari
 This project was developed to practice Flutter widgets and basic application logic.
 
 ## Screenshots
-(Add screenshots here)
+Screenshots/calculator UI-1.jpeg
+Screenshots/calculator UI-2.jpeg
+
+
+
+
+
+
+
